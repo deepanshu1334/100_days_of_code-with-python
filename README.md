@@ -3,4 +3,6 @@ This is a description of 100 days of code challenge with python in which i shari
 kindly follow it guys for amazing stuff
 
 ##
-Progress of 100 day's of python going on 
+Progress of 100 day's of python going on and
+
+This is repository of,100 day's of code
