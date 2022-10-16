@@ -4,3 +4,6 @@ kindly follow it guys for amazing stuff
 
 ##
 Progress of 100 day's of python going on 
+
+##
+We can easily add some projects in it 
